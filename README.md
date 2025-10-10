@@ -13,6 +13,16 @@
 
 This repository is intended for learning, experimenting, and eventually expanding into a fully playable dialogue game/system.
 
+<p align="center">
+  <a href="https://hielo777.github.io/SpeechBubble/">
+    <img src="demoScreenshot.png" alt="Speech bubble in Construct 3" />
+  </a>
+  <br />
+  <a href="https://hielo777.github.io/SpeechBubble/">
+    <sub>Click here to try the demo >></sub>
+  </a>
+</p>
+
 ---
 
 <details>

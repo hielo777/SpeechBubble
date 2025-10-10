@@ -1,0 +1,20 @@
+#blablabla {
+
+border: 2px solid dodgerblue;
+
+padding: 5px;
+
+font-size: 16px;
+
+border-radius: 6px;
+
+resize: both;
+
+overflow: auto;
+
+}
+
+#noteTextArea {
+  resize: both;
+  overflow: auto;
+} 

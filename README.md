@@ -24,9 +24,9 @@ This repository is intended for learning, experimenting, and eventually expandin
 </p>
 
 ---
-
+ ##  📥 How to Use / Run :
 <details>
-<summary> 📥 How to Use / Run </summary>
+<summary> Overall Insructions </summary>
 
 
 1. Open the project with **Construct 3** (https://editor.construct.net/).
@@ -42,8 +42,12 @@ This repository is intended for learning, experimenting, and eventually expandin
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
+---
+
+##  📦 Features
+
 <details>
-<summary> 📦 Features </summary>
+<summary> Current progress </summary>
 
 - Load a custom dialogue at the start of the demo
     - Every line in the dialogue should be separated by an end of line character

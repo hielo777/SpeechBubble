@@ -41,3 +41,19 @@ This repository is intended for learning, experimenting, and eventually expandin
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
+
+<details>
+<summary> 📦 Features </summary>
+
+- Load a custom dialogue at the start of the demo
+    - Every line in the dialogue should be separated by an end of line character
+    - Every line will displayed inside a speech bubble
+    - Dialogue lines should be limited to 50 to 80 characters
+- Load a custom background image at the start of the demo
+- Once the dialogue is loaded, the animated character will "talk" using the scripted dialogue
+
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
+---

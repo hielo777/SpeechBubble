@@ -51,6 +51,11 @@ This repository is intended for learning, experimenting, and eventually expandin
     - Dialogue lines should be limited to 50 to 80 characters
 - Load a custom background image at the start of the demo
 - Once the dialogue is loaded, the animated character will "talk" using the scripted dialogue
+- Use the space bar to display the next line in the Dialogue
+- Simplified the game events from the original demo by @ViridinoStudios, keeping only the logic needed for the speech bubble demo
+    - In progress. Should simplify even more!!
+- Working demo exported and published in the project's repo
+
 
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
